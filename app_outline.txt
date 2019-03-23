@@ -1,0 +1,26 @@
+Bill Splitter Outline:
+
+**start from perspective of a restaurant bill**
+**where one of the customers inputs into the app**
+
+User Actions
+- input each item on a bill
+  - name of food
+  - cost of food
+  - way to share cost of an item amongst ppl
+- input names of ppl in the group
+  - and number of people
+  * maybe link to venmo/fb/phone
+- add tax/tip
+- return itemised bill per person
+
+Additional Features
+* link to venmo - create venmo payment  
+* input picture of receipt
+
+Page Views/Functions
+- home page
+- add number/names of people
+- add food item
+- split bill
+- link to venmo 
